@@ -72,27 +72,55 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
+        title: "Nutrition Guide",
+        des: "Personalised nutrition for gut health, lasting energy, and a healthier relationship with your body.",
+        img: "https://res.cloudinary.com/skpz5si6/image/upload/v1791809040/nutrition.png",
+        link: "https://www.madonenutrition.com/",
+    },
+    {
+        id: 2,
+        title: "Cooper Cricket",
+        des: "Repair, restore, re-balance and refurbish cricket bats of every brand, from club bats to internationals' match bats.",
+        img: "https://res.cloudinary.com/skpz5si6/image/upload/v1791809038/bat.png",
+        link: "https://coopercricket.com.au/",
+    },
+    {
+        id: 3,
+        title: "Laptop Repair Shop",
+        des: "Comprehensive laptop and Apple device repair services with genuine parts and expert technicians.",
+        img: "https://res.cloudinary.com/skpz5si6/image/upload/v1791809046/laptop.png",
+        link: "https://www.carelappy.com/",
+    },
+    {
+        id: 4,
+        title: "Art of Travel",
+        des: "Search, compare, and book flights across 900+ airlines at the best prices.",
+        img: "https://res.cloudinary.com/skpz5si6/image/upload/v1791809035/airline.png",
+        link: "https://www.latiftravelsolutions.com/",
+    },
+    {
+        id: 5,
         title: "Healthcare insurance",
         des: "A web application for looking for services and making appointment bookings.",
         img: "/hospital.png",
         link: "https://icare-dental.web.app/",
     },
     {
-        id: 2,
+        id: 6,
         title: "Bicycle presentation",
         des: "My personal website that shows the fashion and current status of bicycles.",
         img: "/bicycle.png",
         link: "https://bike-webpage.vercel.app/",
     },
     {
-        id: 3,
+        id: 7,
         title: "Snow Dashboard",
         des: "A user-friendly dashboard for monitoring currency data, providing real-time insights and analytics.",
         img: "/snow.png",
         link: "https://snow-dashboard.netlify.app/",
     },
     {
-        id: 4,
+        id: 8,
         title: "Treadright tire",
         des: "A full service shop platform that offers a wide selection of name brand tires, wheels, and tire services.",
         img: "/car.png",
@@ -198,19 +226,19 @@ export const workExperience = [
 ];
 
 export const socialMedia = [
-    {
-        id: 1,
-        img: "/git.svg",
-        link: "/"
-    },
-    {
-        id: 2,
-        img: "/twit.svg",
-        link: "/"
-    },
-    {
-        id: 3,
-        img: "/link.svg",
-        link: "/"
-    },
+    // {
+    //     id: 1,
+    //     img: "/git.svg",
+    //     link: "/"
+    // },
+    // {
+    //     id: 2,
+    //     img: "/twit.svg",
+    //     link: "/"
+    // },
+    // {
+    //     id: 3,
+    //     img: "/link.svg",
+    //     link: "/"
+    // },
 ];
