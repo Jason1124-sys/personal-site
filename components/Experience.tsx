@@ -8,7 +8,7 @@ const Experience = () => {
             <h1 className="heading">
                 Our
                 <span className='text-purple'>
-                    {' '}work experience
+                    {' '}Technical Roles
                 </span>
             </h1>
 
