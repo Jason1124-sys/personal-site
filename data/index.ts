@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
     {
         id: 1,
-        title: "I prioritize client collaboration, fostering open communication ",
+        title: "We prioritize client collaboration, fostering open communication ",
         description: "",
         className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
         imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
     },
     {
         id: 2,
-        title: "I'm very flexible with time zone communications",
+        title: "We're very flexible with time zone communications",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
@@ -28,8 +28,8 @@ export const gridItems = [
     },
     {
         id: 3,
-        title: "My tech stack",
-        description: "I constantly try to improve",
+        title: "Our tech stack",
+        description: "We constantly try to improve",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
         titleClassName: "justify-center",
@@ -108,7 +108,7 @@ export const projects = [
     {
         id: 6,
         title: "Bicycle presentation",
-        des: "My personal website that shows the fashion and current status of bicycles.",
+        des: "Our personal website that shows the fashion and current status of bicycles.",
         img: "/bicycle.png",
         link: "https://bike-webpage.vercel.app/",
     },
@@ -197,29 +197,29 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Web Developer",
-        desc: "Build full-stack web applications, from backend services to front-end interfaces using Next.js & React.js",
+        title: "Mobile App Developer",
+        desc: "Creates applications that run on mobile devices such as smartphones and tablets (iOS and Android).",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Laravel Engineer",
-        desc: "Implemented various REST API endpoints for Vue.js Frontend side and Laravel Backend side.",
+        title: "Backend Developer",
+        desc: "Builds and maintains the server-side logic of applications, handling databases, APIs, authentication, business rules, and system performance.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
         title: "Front-End Developer",
-        desc: "Translated figma design into pixel-perfect front-end interfaces using TailwindCSS.",
+        desc: "Builds the user-facing part of an application - everything users see and interact with in a website or web application.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 4,
-        title: "Full-Stack Engineer",
-        desc: "Assisted in developing tokenomics for a new cryptocurrency project.",
+        title: "Ecommerce Developer",
+        desc: "Creates digital stores where businesses can sell products or services, manage customers, process payments, and handle orders.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     }

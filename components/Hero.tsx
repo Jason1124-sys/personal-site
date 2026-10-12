@@ -32,7 +32,7 @@ const Hero = () => {
                     <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words='Transforming concepts into seamless user experiences' />
 
                     <a href="#projects">
-                        <MagicButton title='My Projects' icon={<FaLocationArrow />} position='right' />
+                        <MagicButton title='Our Projects' icon={<FaLocationArrow />} position='right' />
                     </a>
                 </div>
             </div>

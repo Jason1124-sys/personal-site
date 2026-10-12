@@ -53,7 +53,7 @@ export const BentoGridItem = ({
     const [copied, setCopied] = useState(false);
 
     const handleCopy = () => {
-        navigator.clipboard.writeText('muskans7081@gmail.com');
+        navigator.clipboard.writeText('edwardjphp971@gmail.com');
 
         setCopied(true);
     }
@@ -132,7 +132,7 @@ export const BentoGridItem = ({
                                     }
                                 }} />
                             </div>
-                            <MagicButton title={copied ? 'Email copied' : 'Copy my email'} icon={<IoCopyOutline />} position="left" otherClasses="bg-[#161a31]" handleClick={handleCopy} />
+                            <MagicButton title={copied ? 'Email copied' : 'Copy email'} icon={<IoCopyOutline />} position="left" otherClasses="bg-[#161a31]" handleClick={handleCopy} />
                         </div>
                     )}
                 </div>
